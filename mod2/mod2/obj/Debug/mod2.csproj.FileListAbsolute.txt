@@ -1,0 +1,10 @@
+C:\Users\Lenovo Yoga\praktikum_kpl\modul2\project1\mod2\mod2\bin\Debug\mod2.exe.config
+C:\Users\Lenovo Yoga\praktikum_kpl\modul2\project1\mod2\mod2\bin\Debug\mod2.exe
+C:\Users\Lenovo Yoga\praktikum_kpl\modul2\project1\mod2\mod2\bin\Debug\mod2.pdb
+C:\Users\Lenovo Yoga\praktikum_kpl\modul2\project1\mod2\mod2\obj\Debug\mod2.csproj.AssemblyReference.cache
+C:\Users\Lenovo Yoga\praktikum_kpl\modul2\project1\mod2\mod2\obj\Debug\mod2.Form1.resources
+C:\Users\Lenovo Yoga\praktikum_kpl\modul2\project1\mod2\mod2\obj\Debug\mod2.Properties.Resources.resources
+C:\Users\Lenovo Yoga\praktikum_kpl\modul2\project1\mod2\mod2\obj\Debug\mod2.csproj.GenerateResource.cache
+C:\Users\Lenovo Yoga\praktikum_kpl\modul2\project1\mod2\mod2\obj\Debug\mod2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Yoga\praktikum_kpl\modul2\project1\mod2\mod2\obj\Debug\mod2.exe
+C:\Users\Lenovo Yoga\praktikum_kpl\modul2\project1\mod2\mod2\obj\Debug\mod2.pdb
